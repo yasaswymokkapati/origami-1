@@ -1,0 +1,10 @@
+.header{
+    background-image: url("bg1.jpg");
+}
+.images{
+    display : flex;
+}
+.menu{
+    display : flex;
+    justify-content: space-evenly;
+}
